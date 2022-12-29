@@ -1,16 +1,16 @@
 # Witold Waliś - moja strona
 
-## 
-Demo
+## Demo
+
 
 https://witos22.github.io/homepage/
 
-##
-Technoligies used:
--HTML
--CSS
--JAVASCRIPT
+## Technoligies used:
 
-##
+- HTML
+- CSS
+- JAVASCRIPT
 
-Greetings programmers!
+## Greetings programmers!
+
+
